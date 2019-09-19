@@ -1,0 +1,187 @@
+body {
+	font-family: 'EB Garamond', serif;
+	background-image: url("img/white-scratone.png");
+	
+
+}
+.myclasss {
+	padding-top: 100px;
+	
+}
+
+header {
+	
+
+}
+h1 {
+	text-align: center;
+	font-size: 50px;
+	color: black;
+}
+
+
+.sdbord {
+	box-shadow: 2px 2px 3px 3px;
+}
+
+.navbar {
+
+
+	
+}
+.wordheaderpage {
+	padding-bottom: 70px;
+		
+}
+
+.navbar-brand {
+	padding-right: 0px;
+}
+
+.navbar-brand img {
+	position: relative;
+	top: -125px;
+	bottom: 170px;
+	right: 50px;
+	width: 250px;
+
+
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: white;
+	font-size: 12px;
+	text-transform: uppercase;
+
+
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+	color: red;
+	border-bottom: 3px solid red;
+	
+}
+
+
+
+
+.embed-responsive.embed-responsive-16by9 {
+	padding-bottom: 56.25%;
+}
+ 
+.embed-responsive.embed-responsive-4by3 {
+	padding-bottom: 75%;
+}
+ 
+.embed-responsive{
+	position: relative;
+	display: block;
+	height: 0;
+	padding: 40px;
+	overflow: hidden;
+	width:100%;
+
+}
+ 
+.embed-responsive .embed-responsive-item, .embed-responsive iframe, .embed-responsive embed, .embed-responsive object{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: 0;
+}
+
+.mrclass{
+	margin-top: -70px;
+}
+
+.maincont {
+	padding: 1px 20px;
+	
+	
+}
+
+.eeee {
+	z-index: 100;
+	position	: relative;
+	background-color: black;
+	
+	
+
+}
+.fonshapka {
+	background-image: url("img/zekotum28.jpeg");
+
+}
+.colornav {
+	background-color: black;
+}
+.phone{
+	text-decoration: none;
+	position: absolute;
+	right: 0px;
+	top:20px;
+	color: white;
+	font-size: 25px;
+	z-index: 1000;
+	color: white;
+	font-weight:bold;
+}
+.phone a{
+	text-decoration: none;
+
+}
+.phone1{
+	font-weight:bold;
+	position: absolute;
+	right: 0;
+	top: 50px;
+	color: white;
+	font-size: 30px;
+	z-index: 1000;
+	color: white;
+}
+.menu {
+
+	background: black;
+	border: 0;
+	box-shadow: 0 0 10px;
+	font-size: 20px;
+	
+}
+
+.navbar-inverse .navbar-nav > li.active-link > a {
+	color: white;
+	font-size: 20px;
+	
+	border-bottom: 3px solid red;
+
+
+}
+.textphone {
+	text-decoration: none;
+	
+	border-radius: 10px;
+	background:#4d4f5a;
+}
+.number{
+	color:white;
+}
+.qweaa{
+	background: black;
+	width: 100%;
+ 	position: absolute;
+ 	left: 0;
+ 
+
+	}
+.googlemap{
+	padding-top: 10px;
+
+}	
+
+.padigfoot{
+	padding-bottom: 20px;
+}

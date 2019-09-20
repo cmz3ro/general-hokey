@@ -25,7 +25,7 @@ SECRET_KEY = 'e-$sfmlcbb(ry2*@5t5a)7qk874h@8b74*w*x0)!7r5p9@ngh*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition

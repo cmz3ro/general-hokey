@@ -1,17 +1,20 @@
-{% load staticfiles %}
 body {
 	font-family: 'EB Garamond', serif;
-	background-image: url("static/img/white-scratone.png");
+	background-image: url("img/white-scratone.png");
 	
 
 }
 .myclasss {
-	padding-top: 100px;
 	
+	
+}
+.iconsoc{
+	width: 40px;
 }
 
 header {
-	
+	padding-bottom: 2px;
+	padding-top: 100px;
 
 }
 h1 {
@@ -50,18 +53,14 @@ h1 {
 }
 
 .navbar-inverse .navbar-nav > li > a {
-	color: white;
+	
 	font-size: 12px;
 	text-transform: uppercase;
 
 
 }
 
-.navbar-inverse .navbar-nav > li > a:hover {
-	color: red;
-	border-bottom: 3px solid red;
-	
-}
+
 
 
 
@@ -113,7 +112,7 @@ h1 {
 
 }
 .fonshapka {
-	background-image: url("zekotum28.jpeg");
+	background-image: url("/static/img/zekotum28.jpeg");
 
 }
 .colornav {
@@ -125,7 +124,7 @@ h1 {
 	right: 0px;
 	top:20px;
 	color: white;
-	font-size: 25px;
+	font-size: 20px;
 	z-index: 1000;
 	color: white;
 	font-weight:bold;
@@ -140,7 +139,7 @@ h1 {
 	right: 0;
 	top: 50px;
 	color: white;
-	font-size: 30px;
+	font-size: 20px;
 	z-index: 1000;
 	color: white;
 }

@@ -9,18 +9,31 @@ body {
 	
 }
 .iconsoc{
-	width: 40px;
+	width: 70px;
+	
 }
-
+.iconsoc1{
+	width: 70px;
+	
+}
 header {
 	padding-bottom: 2px;
-	padding-top: 100px;
+	padding-top: 10px;
 
 }
 h1 {
 	text-align: center;
 	font-size: 50px;
 	color: black;
+}
+.apadicon{
+	position: relative;
+	bottom:  10px;
+}
+.apadiconvk{
+	position: relative;
+	left: 60px;
+	
 }
 
 
@@ -30,12 +43,31 @@ h1 {
 
 .navbar {
 
-
 	
+}
+.carousel {
+	height: 400px;
+}
+.carousel-inner .item {
+	height: 400px;
+}
+.carousel-inner .item > img{
+	height: 400px;
 }
 .wordheaderpage {
 	padding-bottom: 70px;
 		
+}
+.dropdown-menu{
+	background-color: #222;
+}
+.dropdown-menu > li{
+	background-color: #222;
+}
+
+.dropdown-menu > li > a{
+	
+	color:white;
 }
 
 .navbar-brand {
@@ -60,7 +92,10 @@ h1 {
 
 }
 
-
+.imgsoc{
+	position: relative;
+	top: 1040px;
+}
 
 
 
@@ -103,6 +138,21 @@ h1 {
 	
 }
 
+.h4pad{
+	margin-right: -110px;
+}
+.h4pad1{
+	margin-right: -110px;
+}
+.h4pad2 > a > img{
+	padding-right:10px;
+	margin-right: -80px;
+}
+
+.text-righ111{
+	text-align: right;
+}
+
 .eeee {
 	z-index: 100;
 	position	: relative;
@@ -118,16 +168,11 @@ h1 {
 .colornav {
 	background-color: black;
 }
-.phone{
-	text-decoration: none;
-	position: absolute;
-	right: 0px;
-	top:20px;
+.phonetextcolor{
+	
+	
 	color: white;
-	font-size: 20px;
-	z-index: 1000;
-	color: white;
-	font-weight:bold;
+	
 }
 .phone a{
 	text-decoration: none;
@@ -170,7 +215,7 @@ h1 {
 	color:white;
 }
 .qweaa{
-	background: black;
+	background: #222;
 	width: 100%;
  	position: absolute;
  	left: 0;
@@ -184,4 +229,67 @@ h1 {
 
 .padigfoot{
 	padding-bottom: 20px;
+}
+.footpad{
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .vidos {
+    width: 300px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .googelkarta {
+    width: 300px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .h4pad {
+    margin-right: 0px;
+  }
+  .h4pad1 {
+    margin-right: 0px;
+  }
+  .h4pad2 {
+    margin-right: 110px;
+    padding-right:0px;
+    padding-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .navbar-brand img {
+	position: relative;
+	top: -105px;
+	bottom: 170px;
+	right: 50px;
+	width: 150px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+ 	.apadicon{
+		position: relative;
+		bottom:  10px;
+		right: 30px;
+	}
+	.apadiconvk{
+		position: relative;
+		left: 20px;
+		}
+
+}
+.notrow{
+	margin-right: 0px;
+	margin-left: 0px;
+}
+.fotodor{
+	width: 300px;
+	padding-bottom: 10px;
+}
+.wh1{
+	color:white;
 }

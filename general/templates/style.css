@@ -185,3 +185,7 @@ h1 {
 .padigfoot{
 	padding-bottom: 20px;
 }
+.fotodor > div > img{
+	width: 700px;
+	padding-bottom: 10px;
+}
